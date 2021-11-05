@@ -1,5 +1,5 @@
 layout: page
-title: "About"
-permalink: https://azureandfriends.com/about
+title: About
+permalink: /about/
 
 Foobar
