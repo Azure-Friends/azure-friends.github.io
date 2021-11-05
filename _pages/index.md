@@ -4,40 +4,22 @@ layout: home
 title: Home
 ---
 
-## Welcome to GitHub Pages
+## What is Azure and Friends?
 
-You can use the [editor on GitHub](https://github.com/Azure-Friends/azure-friends.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Azure and Friends is for making Azure friends. :heart_eyes:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We arrange events, share knowledge across companies and learn through open discussion. As an open community, we make it easy for beginners and experts alike to give Azure-related talks. We are completely independent, seeking to benefit everyone involved with Azure by creating opportunities for collaboration. Let’s come together and get inspired!
 
-### Markdown
+## About Azure and Friends events
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Azure and Friends events offer a fresh twist on a familiar topic: We offer a safe environment to give and attend all kinds of talks, take part in interactive group activities and get new ideas from interesting people. 
 
-```markdown
-Syntax highlighted code block
+There is no typical Azure and Friends speaker; our speakers come from all backgrounds and levels of experience. We foster diversity and enable newcomers to get going with Azure. As a community, we constantly evaluate and evolve our events and approach to keep things fresh.
 
-# Header 1
-## Header 2
-### Header 3
+## Register for updates
 
-- Bulleted
-- List
+We'll be posting our content on social media, such as Twitter and LinkedIn. If you'd like to be notified of any future events, please subscribe to our *MAILING LIST*. We promise we won't spam you.
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Azure-Friends/azure-friends.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have questions, ideas or just feel like you would like to join this merry group of ours, please reach us out on *TWITTER* or *SLACK*
