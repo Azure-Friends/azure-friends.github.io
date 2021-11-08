@@ -18,8 +18,8 @@ There is no typical Azure and Friends speaker; our speakers come from all backgr
 
 ## Register for updates
 
-We'll be posting our content on social media, such as Twitter and LinkedIn. If you'd like to be notified of any future events, please subscribe to our *MAILING LIST*. We promise we won't spam you.
+We'll be posting our content on social media, such as Twitter and LinkedIn. If you'd like to be notified of any future events, please subscribe to our [Mailing List](http://eepurl.com/hMQdOT). We promise we won't spam you.
 
 ### Contact
 
-If you have questions, ideas or just feel like you would like to join this merry group of ours, please reach us out on *TWITTER* or *SLACK*
+If you have questions, ideas or just feel like you would like to join this merry group of ours, please reach us out on [Twitter]( azureandfriends) or [Slack](https://msgurut.azurewebsites.net/) (in which you can find us from the #azure-and-friends channel)
