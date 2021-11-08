@@ -6,7 +6,7 @@ title: Home
 
 ## What is Azure and Friends?
 
-Azure and Friends is for making Azure friends. :heart_eyes:
+Azure and Friends is for making Azure friends. <3
 
 We arrange events, share knowledge across companies and learn through open discussion. As an open community, we make it easy for beginners and experts alike to give Azure-related talks. We are completely independent, seeking to benefit everyone involved with Azure by creating opportunities for collaboration. Let’s come together and get inspired!
 
