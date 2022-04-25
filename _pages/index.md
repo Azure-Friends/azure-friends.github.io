@@ -22,4 +22,4 @@ We'll be posting our content on social media, such as Twitter and LinkedIn. If y
 
 ### Contact
 
-If you have questions, ideas or just feel like you would like to join this merry group of ours, please reach us out on [Twitter]( azureandfriends) or [Slack](https://msgurut.azurewebsites.net/) (in which you can find us from the #azure-and-friends channel)
+If you have questions, ideas or just feel like you would like to join this merry group of ours, please reach us out on [Twitter](https://twitter.com/azureandfriends) or [Slack](https://msgurut.azurewebsites.net/) (in which you can find us from the #azure-and-friends channel)
