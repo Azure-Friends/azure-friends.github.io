@@ -7,7 +7,11 @@ title: Events
 ## List of events and the links for recordings (where applicable)
 <br>
 
-**Azure and Friends meetup 1.6.2022**<br>
+
+**Azure and Friends 4 -- 31.8.2022**<br>
+[Event](https://www.linkedin.com/events/azureandfriendsmeetup31-86942209420722372609)
+
+**Azure and Friends 3 -- 1.6.2022**<br>
 [Event](https://www.linkedin.com/events/azureandfriendsmeetup1-6-inpers6929367990958194688/)
 
 **Global Azure 2022 Meetup -- 07.05.2022**<br>
