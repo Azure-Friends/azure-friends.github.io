@@ -18,8 +18,16 @@ There is no typical Azure and Friends speaker; our speakers come from all backgr
 
 ## Register for updates
 
-We'll be posting our content on social media, such as Twitter and LinkedIn. If you'd like to be notified of any future events, please subscribe to our [Mailing List](http://eepurl.com/hMQdOT). We promise we won't spam you.
+We'll be posting our content on social media, such as Twitter and LinkedIn. If you'd like to be notified of any future events, please join us in  [Meetup](https://www.meetup.com/azure-and-friends-helsinki/) page
+
+### Event venue
+
+We are constantly looking for companies to sponsor event venue, food and drinks. If you would you be interested on this please reach organizers in Meetup](https://www.meetup.com/azure-and-friends-helsinki/) or [Slack](https://msgurut.azurewebsites.net/)
+
+### Speakers
+
+Azure & Friends is always open for new & old speakers. If you are interested on speaking we would be more than happy to spar with you on helping to create presentations and coming up with a topic. Please reach out any of the organizer on Meetup](https://www.meetup.com/azure-and-friends-helsinki/) or [Slack](https://msgurut.azurewebsites.net/).
 
 ### Contact
 
-If you have questions, ideas or just feel like you would like to join this merry group of ours, please reach us out on [Twitter](https://twitter.com/azureandfriends) or [Slack](https://msgurut.azurewebsites.net/) (in which you can find us from the #azure-and-friends channel)
+If you have questions, ideas or just feel like you would like to join this merry group of ours, please reach us out on [Slack](https://msgurut.azurewebsites.net/) (in which you can find us from the #azure-and-friends channel)
