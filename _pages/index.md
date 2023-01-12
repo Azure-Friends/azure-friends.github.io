@@ -22,11 +22,11 @@ We'll be posting our content on social media, such as Twitter and LinkedIn. If y
 
 ### Event venue
 
-We are constantly looking for companies to sponsor event venue, food and drinks. If you would you be interested on this please reach organizers in Meetup](https://www.meetup.com/azure-and-friends-helsinki/) or [Slack](https://msgurut.azurewebsites.net/)
+We are constantly looking for companies to sponsor event venue, food and drinks. If you would you be interested on this please reach organizers in [Meetup](https://www.meetup.com/azure-and-friends-helsinki/) or [Slack](https://msgurut.azurewebsites.net/)
 
 ### Speakers
 
-Azure & Friends is always open for new & old speakers. If you are interested on speaking we would be more than happy to spar with you on helping to create presentations and coming up with a topic. Please reach out any of the organizer on Meetup](https://www.meetup.com/azure-and-friends-helsinki/) or [Slack](https://msgurut.azurewebsites.net/).
+Azure & Friends is always open for new & old speakers. If you are interested on speaking we would be more than happy to spar with you on helping to create presentations and coming up with a topic. Please reach out any of the organizer on [Meetup](https://www.meetup.com/azure-and-friends-helsinki/) or [Slack](https://msgurut.azurewebsites.net/).
 
 ### Contact
 
